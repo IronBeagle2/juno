@@ -1,9 +1,11 @@
 [
     {
-    "title": "Testing testing",
-    "date": "24. 01. 2024",
-    "content": "hello"
+    "title": "Hello World!",
+    "date": "26. 01. 2024",
+    "content": "Well, this is awkward. Hello everybody! Method here, introducing a new feature: Blogs! From here on out, I will occasionally be taking time out of my day to write up these short blogs relating to development of the mods (primarily Infdev+), as well as potentially other, related projects. <br>So to kick things off, a lot of you are likely asking yourselves: Where is the Discord? Well, truth be told, the Discord has closed down on January 1st (so earlier this month), for a variety of reasons. The primary reason is, as the mods are starting to get traction, it is becoming increasingly more difficult to manage the server, in addition to the project itself. Therefore, given how I never intended to have this be a community driven project, but more so something I primarily make for myself, and also having accumulated a big enough team of testers, I decided to close the server. The server is still up, it has not been deleted, but nobody can access it from the outside anymore. This decision is final. <br>Next up, updates. As of writing this, v0.4 is halfway through its development. We have overhauled cave generation already, and will be working on implementing a brewing and tool repair system next. I will be making another blog post soon detailing more of this, alongside pictures and a potential video on my main channel, so stay tuned for that! The version itself will be released within the upcoming two weeks hopefully, after which v0.5 will begin, which will be the last version focused on improving the overworld experience, before moving onto the dimensions. 0.5 is expected to take a long time, as we will be adding around a dozen dungeons to specific biomes, each with its own structure, mobs, boss, mechanics and loot, so this will take a long time, doubly so due to the fact I will be moving to the Netherlands for about 6 months. That being said, the goal is to have it finished by the summer (around July). <br><br>So that about wraps it up. Big things are coming for the project, so stay tuned and keep this page bookmarked if you're interested!" 
+    
   },
+    
   {
     "title": "A nice title",
     "date": "31. 12. 2023",
